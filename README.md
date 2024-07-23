@@ -101,6 +101,5 @@ To set up and run the game, follow these steps:
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
-
+The game is based on one of Codecademy's challenge projects.
 Enjoy the game!
